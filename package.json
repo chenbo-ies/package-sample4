@@ -1,0 +1,19 @@
+{
+  "name": "@chenbo-ies/package-sample4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenbo-ies/package-sample4.git"
+  },
+  "author": "chenbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenbo-ies/package-sample4/issues"
+  },
+  "homepage": "https://github.com/chenbo-ies/package-sample4#readme"
+}
